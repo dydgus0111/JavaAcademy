@@ -23,7 +23,7 @@ class TextArea2 extends Frame{
 		setVisible(true);
 	}
 }
-public class Main {
+public class Main2 {
 	public static void main(String[] args){
 		new TextArea2("Text Å×½ºÆ®");
 	}
